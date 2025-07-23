@@ -1,0 +1,14 @@
+C:\Users\Leagu\source\repos\Exercicio_WallE\bin\Debug\net8.0\Exercicio_WallE.exe
+C:\Users\Leagu\source\repos\Exercicio_WallE\bin\Debug\net8.0\Exercicio_WallE.deps.json
+C:\Users\Leagu\source\repos\Exercicio_WallE\bin\Debug\net8.0\Exercicio_WallE.runtimeconfig.json
+C:\Users\Leagu\source\repos\Exercicio_WallE\bin\Debug\net8.0\Exercicio_WallE.dll
+C:\Users\Leagu\source\repos\Exercicio_WallE\bin\Debug\net8.0\Exercicio_WallE.pdb
+C:\Users\Leagu\source\repos\Exercicio_WallE\obj\Debug\net8.0\Exercicio_WallE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leagu\source\repos\Exercicio_WallE\obj\Debug\net8.0\Exercicio_WallE.AssemblyInfoInputs.cache
+C:\Users\Leagu\source\repos\Exercicio_WallE\obj\Debug\net8.0\Exercicio_WallE.AssemblyInfo.cs
+C:\Users\Leagu\source\repos\Exercicio_WallE\obj\Debug\net8.0\Exercicio_WallE.csproj.CoreCompileInputs.cache
+C:\Users\Leagu\source\repos\Exercicio_WallE\obj\Debug\net8.0\Exercicio_WallE.dll
+C:\Users\Leagu\source\repos\Exercicio_WallE\obj\Debug\net8.0\refint\Exercicio_WallE.dll
+C:\Users\Leagu\source\repos\Exercicio_WallE\obj\Debug\net8.0\Exercicio_WallE.pdb
+C:\Users\Leagu\source\repos\Exercicio_WallE\obj\Debug\net8.0\Exercicio_WallE.genruntimeconfig.cache
+C:\Users\Leagu\source\repos\Exercicio_WallE\obj\Debug\net8.0\ref\Exercicio_WallE.dll
